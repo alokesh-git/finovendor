@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCOjZ4QGRyYJrJZdTmJiVxXvTeW9ZlOv7E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>228173326661</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.finobadivendor</string>
+	<key>PROJECT_ID</key>
+	<string>finobadiscrab</string>
+	<key>STORAGE_BUCKET</key>
+	<string>finobadiscrab.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:228173326661:ios:d653f1b2739c8f68fd362c</string>
+</dict>
+</plist>

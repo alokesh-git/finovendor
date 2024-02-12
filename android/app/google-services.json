@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "228173326661",
+    "project_id": "finobadiscrab",
+    "storage_bucket": "finobadiscrab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228173326661:android:4683a96aef5d1367fd362c",
+        "android_client_info": {
+          "package_name": "com.example.finobadi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmfqlexSkday1gmalQgzFg_PwVdhz6FNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228173326661:android:28f3e5f7985edf38fd362c",
+        "android_client_info": {
+          "package_name": "com.example.finobadiadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmfqlexSkday1gmalQgzFg_PwVdhz6FNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228173326661:android:1f55d6b031a90499fd362c",
+        "android_client_info": {
+          "package_name": "com.example.finobadivendor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmfqlexSkday1gmalQgzFg_PwVdhz6FNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
